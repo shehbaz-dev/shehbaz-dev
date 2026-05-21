@@ -1,4 +1,4 @@
- <h2 align="left">I'm Shehbaz a passionate creator from Karachi, Pakistan.</h2>
+<h2 align="left">I'm Shehbaz a passionate creator from Karachi, Pakistan.</h2>
 
 ###
 
